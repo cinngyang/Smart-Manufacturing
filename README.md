@@ -1,6 +1,6 @@
 智慧工廠
 ***
-[人工智慧與智慧工廠](Data/智慧工廠.md)<br>[數位轉型](Data/轉型.md)<br>[智慧製造 - 架構資料處理](Data/智慧製造-1.md)<br>[智慧工廠 - 預測與決策 ](Data/智慧製造-2.md)<br>[2018 CIO 製造論壇](Data/2018-CIO-製造論壇.md)<br>[AI-NEXT](/Data/AINext.md)<br>
+[人工智慧與智慧工廠](Data/智慧工廠.md)<br>[數位轉型](Data/轉型.md)<br>[智慧製造 - 架構資料處理](Data/智慧製造-1.md)<br>[智慧工廠 - 預測與決策 ](Data/智慧製造-2.md)<br>[2018 CIO 製造論壇](Data/2018-CIO-製造論壇.md)<br>[AI-NEXT](/Data/AINext.md)<br>[關於 ML 的基本概念](/類神經網路.md)<br>
 
 
 
