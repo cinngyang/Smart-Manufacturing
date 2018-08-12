@@ -1,6 +1,12 @@
-#### Resource Representational State Transfer -  Web API
+#### Representational State Transfer -  Web API
 
 ***
+
+最近被前端的技術搞得暈頭轉向的，架構與運用以及平台。有時候很多事情存在兩難，現有的包袱，人員慣用技術與舊有系統維護。日後維運成本。畢竟 MS 平台下整題的成本升高。
+
++ Web API VS Web Service
++ PWA 
++  
 
 REST指的是網路中Client端和Server端的一種呼叫服務形式， 對資源的操作包括獲取、創建、修改和刪除資源,這些操作就是 HTTP Method: GET、POST、PUT、PATCH和DELETE。這正好會對應到資料庫基本操作CRUD。**CRUD 為 Create(新增)、Read(讀取)、Update(更新)與Delete(刪除)**, 與 Web Service 的差異在於可以修改資料
 
