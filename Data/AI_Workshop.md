@@ -9,6 +9,14 @@ AI 的商業模式
   + 因子(相關 VS 因果)
   + 區隔變數(避免混淆)
 
-東海大學智慧講座，是黃齊元學長所捐助，剛好 AI 學校停課所以有機會過去聽。<br>上午陳亮恭教授分享到**有些狀況下 Unspervied learning better than suppervied learning**,也是一個根據目的選擇工具,因為醫生是非常專業的工作又依靠人的判斷,所以**溝通的成本最貴, 想好 Business Model 否則很容易陪光光<br>賴柏雄教授分享到 **AI 投資的策略，**管理系統賺不到錢，雖然解決基層人員的 loading** ,強調的應該是 **Value up 不要 focus cost down**, **AI 投資你懂我懂大家懂, 不要碰**，要往深的地方走,我很喜歡中西思想異同的方式,商業的 Business Model 角度思考與 Ecosystem. **AI 目前沒有標準是困難也是機會**.賴教授的東西很有價值要消化好久<br>下午比較提到 Digital Transformation, 比較以科技驅動變革, 如何因應與生態系統的角度
+東海大學智慧講座，是黃齊元學長所捐助，剛好 AI 學校停課所以有機會過去聽。<br>上午陳亮恭教授分享到**有些狀況下 Unspervied learning better than suppervied learning**,也是一個根據目的選擇工具,因為醫生是非常專業的工作又依靠人的判斷,所以**溝通的成本最貴, 想好 Business Model 否則很容易陪光光**, 醫學 labeling 是專業判斷, 定義 , 資料很關鍵. 不同的專業與角色對 Accountability 是不同的, 醫療間新舊系統的轉換與相容性也是一個大課題, 這不也是個商機嗎 ? 
+
++ Apple wath 對健康資訊的收集會引發什麼 , 一個新的生態鏈嗎 ? 
+  + IOT / 醫療 / 保險 
+  + 這會時持續性的資料收集並且有跨人種的資料
+
+賴柏雄教授分享到 **AI 投資的策略管理系統賺不到錢，雖然解決基層人員的 loading,強調的應該是 Value up 不要 focus cost down, AI 投資你懂,我懂大家懂, 不要碰，要往深的地方走**,我很喜歡中西思想異同的方式,商業的 Business Model 角度思考與 Ecosystem. **AI 目前沒有標準是困難也是機會**.賴教授的東西很有價值要消化好久<br>下午比較提到 Digital Transformation, 比較以科技驅動變革, 中心思考模式在 C2B(custormilize , customer require ) 如何因應與生態系統的角度 ? 企業文化如何改變 , **在數位化下邊際成本幾乎為零改變不少商業模式,大量舉債追求規模為的是 BigData 甚至補貼硬體或免費** 
+
+[C2B 逆商業時代](https://www.economic-news.tw/2018/02/c2b.html)<br>
 
 ![逢甲名牌每次都很漂亮](../img/工作坊.JPG)<br> ![SVM](../img/SVM_E3320.JPG)<br>![](../img/Distrubtion_3297.JPG)<br>![Value up](../img/Trand_3345.JPG)<br>![](../img/Cluter.JPG)<br>![](../img/Owner.JPG)<br>![](../img/Margain_E3387.JPG)<br>![](../img/Ecosystem_3375.JPG)
