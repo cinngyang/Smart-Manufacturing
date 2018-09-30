@@ -6,6 +6,5 @@
 
 
 <img src="../img/Intelligence.jpg" width = "300" height = "300" alt="五感" align=center />
-
-
-![人工智慧](../img/Intelligence.jpg){:height="100px" width="300px"}<br>![](../img/computervision.jpg)<br>![](../img/Convolution.jpg)
+<img src="../img/computervision.jpg" width = "400" height = "300" alt="五感"/><br>
+![Connvolution](../img/Convolution.jpg)
