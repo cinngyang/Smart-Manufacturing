@@ -7,4 +7,4 @@
 
 <img src="../img/Intelligence.jpg" width = "300" height = "300" alt="五感" align=center /><br>
 <img src="../img/computervision.jpg" alt="五感"/><br>
-![Connvolution](../img/Convolution.jpg)
+![Connvolution](../img/Convolution.jpg){:height="100px" width="400px"}
