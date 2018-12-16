@@ -7,7 +7,7 @@
 
 ### 數位轉型 
 
-[數位轉型 - 善用科技](/Data/轉型.md)<br>[數位轉型 - AI 的組織與人才](/Data/AINext.md)<br>[數位轉型 - 2018 CIO leadership](/Data/CIOLeadership2018.md)<br>[數位轉型 - AI 的商業模式](/Data/AI_商業模式.md)<br>[數位轉型- 台積分享](/Data/DigitalTransformation.md)
+[數位轉型 - 善用科技](/Data/轉型.md)<br>[數位轉型 - AI 的組織與人才](/Data/AINext.md)<br>[數位轉型 - 2018 CIO leadership](/Data/CIOLeadership2018.md)<br>[數位轉型 - AI 的商業模式](/Data/AI_商業模式.md)<br>[數位轉型- 台積分享](/Data/DigitalTransformation.md)<br>[數位轉型- CIO 雜誌 2018 大調查](/Data/CIO2018-19-Trend.md)
 
 ### 人工智慧
 
