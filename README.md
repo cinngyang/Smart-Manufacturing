@@ -11,7 +11,7 @@
 
 ### 人工智慧
 
-[人工智慧基本概念](Data/類神經網路.md)<br>[S 曲線與短鏈革命影響](/Data/AIAdacamy1.md)<br>
+[AI 轉型](Data/AITransformation.md)<br>[人工智慧基本概念](Data/類神經網路.md)<br>[S 曲線與短鏈革命影響](/Data/AIAdacamy1.md)<br>
 
 ### 技術相關
 
